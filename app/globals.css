@@ -1,0 +1,4 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+html{scroll-behavior:smooth}body{background:#fbfaf7}.section{@apply py-20 md:py-28}.container-x{@apply mx-auto max-w-6xl px-6}.eyebrow{@apply text-sm font-bold uppercase tracking-[.2em] text-[#c45d43]}
